@@ -7,7 +7,10 @@ body {
 
 .blog-post {
     display: flex;
-    margin: 40px 570px;
+    margin: auto;
+    margin-top: 20px;
+    width: 285px;
+    height: 470px;
     justify-content: center;
     font-family: 'Figtre', sans-serif;
     background: #FFFFFF;
@@ -15,12 +18,12 @@ body {
     padding: 25px 50px;
     border: 1.5px solid black;
     border-radius: 20px;
-    box-shadow: 6px 6px 0px;
+    box-shadow: 7px 7px 0px;
 }
 
 .blog-post img {
     height: 200px;
-    margin: none;
+    margin: 0;
     border-radius: 15px;
 }
 
