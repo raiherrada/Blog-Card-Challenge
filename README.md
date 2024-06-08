@@ -20,6 +20,8 @@ The challenge was to create a simple blog card with a hover effect once you hove
 
 ### Screenshot
 
+<img src="blogcard.PNG" width="400px">
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-card-challenge-solution-by-rainiero-hU1RykRXrY)
